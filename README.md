@@ -1,2 +1,3 @@
 # SFML-VSCode-Template
-SFML Visual Studio Code Template (Linux)
+
+SFML Visual Studio Code Template (Linux only atm)
